@@ -11,3 +11,7 @@
 ## _Challenges/Potential issues_
  - Working closely with the design team, discussing ideas and visions, and narrowing them down to just a few strong concepts will be a challenging process. Brainstorming sessions will be frequent, and during these discussions, some ideas may be scrapped and need to be reworked, while others will be approved for further development. This iterative process is time-consuming and requires a great deal of patience from all involved. However, it’s an essential part of creating a high-quality project, as it ensures that only the best ideas make it through. Ultimately, we are all working toward the same goal: to deliver a product that reflects our collective effort and passion. While it may take time, we understand that each decision we make, no matter how small, contributes to the overall success of the project.
  - When creating soundtracks, sound effects, or ambient sounds, a lack of inspiration and creativity can become a significant challenge. It often acts as a roadblock, preventing me from achieving the exact sound I envision for the project. While I might have a rough idea of how I want the soundtracks to feel or a specific sound and pitch in my head, translating that vision into a finished piece can be incredibly time-consuming. I may spend hours, sometimes even days, trying to perfect the sound or get it as close as possible to what I originally imagined.
+
+## Research
+## _Methodology_
+ - 
