@@ -14,4 +14,5 @@
 
 ## Research
 ## _Methodology_
+ - I have found it incredibly useful to listen to soundtracks from video games and movies, as they have been a great source of inspiration in developing my understanding of the relationship between what is seen and what is heard. As part of my creative process, I’ve also made a conscious effort to explore various musical genres—ranging from classical and ambient to RnB, rock, synthwave, and experimental sound design. This exposure has broadened my creative palette and helped me think more openly when composing and arranging for different moods and scenes. Listening to music with a more analytical ear—paying attention to how a track is layered, how instruments interact, and how transitions are handled—has been a key part of my growth. I’ve learned to appreciate the subtle details that make a soundtrack effective, such as dynamic contrast, pacing, and spatial awareness in the mix. All of this has contributed to refining my own style and making more intentional choices when designing sound for this project.
  - 
