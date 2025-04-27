@@ -34,4 +34,7 @@
 
 ## Implementation
 ## _Process_
+ - First things first, I started working in Logic Pro, composing my music based on the information, images, and ideas shared by the team regarding the direction of the designed levels and the overall aesthetic of each individual environment. My initial compositions began with simple synth sounds, establishing a foundation that matched the intended atmosphere. Over time, I carefully layered in different sound effects such as reverb, tape delay, and bitcrusher, as well as additional instruments, to create a richer, more fleshed-out soundscape. This iterative process allowed me to experiment with different textures and moods, ensuring that the music evolved alongside the visual and gameplay elements. I found that by adjusting and refining the sound with each feedback session, I could better align the audio with the emotional tone and pacing of each level, making the soundtrack an integral part of the player's experience.
+ - The more I worked toward achieving the desired sound, the more I realized that I didn’t need a large number of tracks or a wide variety of instruments to create a strong, impactful atmosphere. In fact, the soundtracks became richer and more cohesive the fewer elements I used—provided they blended well and were carefully aligned to the same tempo. This approach prevented the music from sounding chaotic or disconnected. I also focused heavily on crafting emotional depth within the ambiance, which proved to be one of the most challenging aspects of the process.
+## _New Approaches_
  - 
